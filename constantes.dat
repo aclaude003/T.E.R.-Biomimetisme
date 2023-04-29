@@ -1,6 +1,21 @@
-10
-1
-50
-50
-1
-0
+1    !mode affichage
+100   !u_infini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+! Le pas de discrétisation de l'axe des abscisses
+!x0 est l'abscisse initial
+!x_final est l'abscisse final
+! (x,y) sont les points dans le repère cartésien
+!y0 est la condition initial.Elle correspond à la position de la particule fluide quand on est loin des éoliennes. chaque particule occupera donc k*y0 comme ordonnée.

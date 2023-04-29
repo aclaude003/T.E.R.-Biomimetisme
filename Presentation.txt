@@ -1,2 +1,54 @@
-Présentation du programme:....
+Présentation du programme:
+échelle reduite en mm
 
+a rayon
+gamma circulation strengh
+
+particules distantes de 1
+pas maillage 0.1 si petit plus de temps
+initialement x =-100 ,finalement x =200
+x=-1000 va donner une meilleur solution mais 10 fois plus de temps
+on ne represente que 100 -100 pour un cylindre
+on represent 200 -100 pour deux cylindres et plus
+
+--------------1 cylindre fixe------------  10 particules 
+a=14
+gamma=0
+U_infini=100
+cylindre au centre
+image1 avec probleme traits
+image2 sans probleme traits
+
+--------------1 cylindre rotatif sens + ---------- 15 particules
+a=14
+gamma=700
+u_infini=100
+cylindre au centre
+image3
+
+gamma=7000
+u_infini=100
+image4
+
+gamma=700
+u_infini=1000
+image5
+--------------1 cylindre rotatif sens - -----------
+a=14
+gamma=-700
+u_infini=100
+cylindre au centre
+image 6
+-------------2 cylindres rotatifs ----------------
+a=14
+gamma=700
+u_infini=100
+cx =50
+image 7
+-------------9 cylindres rotatifs ---------------- 25 particules distance d=5
+a=14
+gamma =700
+u_infini=100
+cx=50
+cy=50
+image 8
